@@ -1,0 +1,15 @@
+# Environment variables
+.env
+.env.local
+
+# Dependency directories
+node_modules/
+
+# Logs and coverage
+logs/
+*.log
+coverage/
+
+# Ignore databases (e.g., if you're using SQLite for development)
+*.sqlite
+*.sqlite3
